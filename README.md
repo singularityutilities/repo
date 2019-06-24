@@ -1,2 +1,2 @@
 # repo
-<a href="https://github.com/singularityutilities/repo/raw/master/plugin.video.singularityutilities.zip">plugin.video.singularityutilities.zip</a>
+[plugin.video.singularityutilities.zip](https://github.com/singularityutilities/repo/blob/master/plugin.video.singularityutilities.zip)
